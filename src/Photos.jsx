@@ -9,16 +9,16 @@ return (
 <>
 <Fade cascade damping={0.5}>
 <div className="rotate-box">
-  <img src="/assets/nyc-1.jpg" alt="nyc"></img>
+  <img src="./assets/nyc-1.jpg" alt="nyc"></img>
 </div>
 <div className="rotate-box">
-  <img src="/assets/nyc-2.jpg" alt="nyc"></img>
+  <img src="./assets/nyc-2.jpg" alt="nyc"></img>
 </div>
 <div className="rotate-box">
-  <img src="/assets/nyc-3.jpg" alt="nyc"></img>
+  <img src="./assets/nyc-3.jpg" alt="nyc"></img>
 </div>
 <div className="rotate-box">
-  <img src="/assets/nyc-4.jpg" alt="nyc"></img>
+  <img src="./assets/nyc-4.jpg" alt="nyc"></img>
 </div>
 </Fade>
 </>
