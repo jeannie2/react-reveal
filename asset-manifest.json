@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-reveal/static/css/main.08069494.css",
-    "main.js": "/react-reveal/static/js/main.05d42243.js",
+    "main.js": "/react-reveal/static/js/main.b7e124a9.js",
     "index.html": "/react-reveal/index.html",
     "main.08069494.css.map": "/react-reveal/static/css/main.08069494.css.map",
-    "main.05d42243.js.map": "/react-reveal/static/js/main.05d42243.js.map"
+    "main.b7e124a9.js.map": "/react-reveal/static/js/main.b7e124a9.js.map"
   },
   "entrypoints": [
     "static/css/main.08069494.css",
-    "static/js/main.05d42243.js"
+    "static/js/main.b7e124a9.js"
   ]
 }
